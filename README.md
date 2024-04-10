@@ -1,4 +1,4 @@
-# Location Finder
+# Location Finder ReactTS + LeafletJS
 
 This application shows your location on the map and shows your map according to the coordinates you enter.
 
